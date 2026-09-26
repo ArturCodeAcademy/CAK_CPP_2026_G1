@@ -1,0 +1,12 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solutions/" />
+  <Folder Name="/Solutions/Math/">
+    <Project Path="Užduotis 0. 0/Užduotis 0. 0.vcxproj" />
+  </Folder>
+  <Project Path="01 Introduction to C++ and Visual Studio/01 Introduction to C++ and Visual Studio.vcxproj" />
+  <Project Path="02 Variables/02 Variables.vcxproj" />
+</Solution>
