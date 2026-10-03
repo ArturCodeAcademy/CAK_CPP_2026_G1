@@ -7,6 +7,13 @@
   <Folder Name="/Solutions/Math/">
     <Project Path="Užduotis 0. 0/Užduotis 0. 0.vcxproj" Id="99a6b07f-e051-4083-9ffb-8161d86b1aef" />
   </Folder>
+  <Folder Name="/Solutions/Paprasčiausi skaičiavimai/">
+    <Project Path="Užduotis 1.3. 01/Užduotis 1.3. 01.vcxproj" Id="762b2a00-d0b0-4c2d-bb13-456d1a5efc81" />
+    <Project Path="Užduotis 1.3. 02/Užduotis 1.3. 02.vcxproj" Id="b4d8a271-cb5a-4452-bed4-88d1ff40b7f9" />
+    <Project Path="Užduotis 1.3. 03/Užduotis 1.3. 03.vcxproj" Id="c44adf65-6318-45ab-8677-3bb10098cf28" />
+    <Project Path="Užduotis 1.3. 04/Užduotis 1.3. 04.vcxproj" Id="4ef0dada-e2d3-4068-9741-ceec0c4ccf8e" />
+    <Project Path="Užduotis 1.3. 05/Užduotis 1.3. 05.vcxproj" Id="a8e359f4-90b3-4cbf-8eb8-d291e30a9660" />
+  </Folder>
   <Project Path="01 Introduction to C++ and Visual Studio/01 Introduction to C++ and Visual Studio.vcxproj" Id="9d69e515-a4c7-4fa5-be67-3b7b7810d94f" />
   <Project Path="02 Variables/02 Variables.vcxproj" Id="7e1415ca-7a0c-4ae3-bf40-55ee5cf49812" />
   <Project Path="03 Arithmetic Operators/03 Arithmetic Operators.vcxproj" Id="15bda53e-c391-4c44-90a9-beb5d1d21591" />
