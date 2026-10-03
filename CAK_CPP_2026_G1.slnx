@@ -5,8 +5,8 @@
   </Configurations>
   <Folder Name="/Solutions/" />
   <Folder Name="/Solutions/Math/">
-    <Project Path="Užduotis 0. 0/Užduotis 0. 0.vcxproj" />
+    <Project Path="Užduotis 0. 0/Užduotis 0. 0.vcxproj" Id="99a6b07f-e051-4083-9ffb-8161d86b1aef" />
   </Folder>
-  <Project Path="01 Introduction to C++ and Visual Studio/01 Introduction to C++ and Visual Studio.vcxproj" />
-  <Project Path="02 Variables/02 Variables.vcxproj" />
+  <Project Path="01 Introduction to C++ and Visual Studio/01 Introduction to C++ and Visual Studio.vcxproj" Id="9d69e515-a4c7-4fa5-be67-3b7b7810d94f" />
+  <Project Path="02 Variables/02 Variables.vcxproj" Id="7e1415ca-7a0c-4ae3-bf40-55ee5cf49812" />
 </Solution>
