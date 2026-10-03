@@ -9,4 +9,5 @@
   </Folder>
   <Project Path="01 Introduction to C++ and Visual Studio/01 Introduction to C++ and Visual Studio.vcxproj" Id="9d69e515-a4c7-4fa5-be67-3b7b7810d94f" />
   <Project Path="02 Variables/02 Variables.vcxproj" Id="7e1415ca-7a0c-4ae3-bf40-55ee5cf49812" />
+  <Project Path="03 Arithmetic Operators/03 Arithmetic Operators.vcxproj" Id="15bda53e-c391-4c44-90a9-beb5d1d21591" />
 </Solution>
