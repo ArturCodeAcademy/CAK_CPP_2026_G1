@@ -6,6 +6,20 @@
   <Folder Name="/Solutions/" />
   <Folder Name="/Solutions/Math/">
     <Project Path="Užduotis 0. 0/Užduotis 0. 0.vcxproj" Id="99a6b07f-e051-4083-9ffb-8161d86b1aef" />
+    <Project Path="Užduotis 0. 000/Užduotis 0. 000.vcxproj" Id="0feec58c-467a-4a09-b321-6123826d7ddd" />
+    <Project Path="Užduotis 0.1. Stačiakampio perimetras/Užduotis 0.1. Stačiakampio perimetras.vcxproj" Id="6f371e57-ad46-44d1-81d9-ece2f372a9f7" />
+    <Project Path="Užduotis 1. Lakštų plotas/Užduotis 1. Lakštų plotas.vcxproj" Id="6fc30820-b9b0-4dad-a68d-bddb6006679e" />
+    <Project Path="Užduotis 10. Stačiakampis stačiakampyje/Užduotis 10. Stačiakampis stačiakampyje.vcxproj" Id="bfbe5b9f-c292-47a3-a226-ec34c88e42af" />
+    <Project Path="Užduotis 11. Sekantis kvadratas/Užduotis 11. Sekantis kvadratas.vcxproj" Id="968fef92-868a-41e5-88a0-4bcb3be820ef" />
+    <Project Path="Užduotis 12. Triženklio skaitmenų suma V2/Užduotis 12. Triženklio skaitmenų suma V2.vcxproj" Id="01111b6f-6981-469a-a641-42441ef35a35" />
+    <Project Path="Užduotis 12. Triženklio skaitmenų suma V3/Užduotis 12. Triženklio skaitmenų suma V3.vcxproj" Id="d8126fcd-7a65-45b4-a2c9-a166e17e76f9" />
+    <Project Path="Užduotis 12. Triženklio skaitmenų suma/Užduotis 12. Triženklio skaitmenų suma.vcxproj" Id="f0764b49-49b7-4446-b2b1-23d78587fe03" />
+    <Project Path="Užduotis 2. Lakštų skirtumas/Užduotis 2. Lakštų skirtumas.vcxproj" Id="111be572-5f6a-4b70-bea8-9c2aa0641ea2" />
+    <Project Path="Užduotis 3. Kelias/Užduotis 3. Kelias.vcxproj" Id="0d8f58b9-6ff7-452b-9920-2239011a9ca6" />
+    <Project Path="Užduotis 6. Pamoka/Užduotis 6. Pamoka.vcxproj" Id="a2a360c2-d15f-4155-9cfb-cdd2ec1c1df0" />
+    <Project Path="Užduotis 7. Petriuko skaičius/Užduotis 7. Petriuko skaičius.vcxproj" Id="032c6ee2-a29d-4dac-9936-1f5dd8f88ce1" />
+    <Project Path="Užduotis 8. Puodelių pakavimas/Užduotis 8. Puodelių pakavimas.vcxproj" Id="78f25551-5cfe-4854-8f24-bfe00336cc27" />
+    <Project Path="Užduotis 9. Dėžės tūris ir plotas/Užduotis 9. Dėžės tūris ir plotas.vcxproj" Id="2fce7783-b6d6-4bcd-b7c0-74268ae11d95" />
   </Folder>
   <Folder Name="/Solutions/Paprasčiausi skaičiavimai/">
     <Project Path="Užduotis 1.3. 01/Užduotis 1.3. 01.vcxproj" Id="762b2a00-d0b0-4c2d-bb13-456d1a5efc81" />
@@ -18,4 +32,5 @@
   <Project Path="02 Variables/02 Variables.vcxproj" Id="7e1415ca-7a0c-4ae3-bf40-55ee5cf49812" />
   <Project Path="03 Arithmetic Operators/03 Arithmetic Operators.vcxproj" Id="15bda53e-c391-4c44-90a9-beb5d1d21591" />
   <Project Path="04 Input and Output/04 Input and Output.vcxproj" Id="899997a4-7d87-40b6-9627-0090db1d6307" />
+  <Project Path="05 Type Conversion/05 Type Conversion.vcxproj" Id="0388c711-2609-4c96-aa03-6db288e80826" />
 </Solution>
