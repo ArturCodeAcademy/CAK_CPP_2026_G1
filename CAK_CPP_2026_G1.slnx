@@ -33,4 +33,6 @@
   <Project Path="03 Arithmetic Operators/03 Arithmetic Operators.vcxproj" Id="15bda53e-c391-4c44-90a9-beb5d1d21591" />
   <Project Path="04 Input and Output/04 Input and Output.vcxproj" Id="899997a4-7d87-40b6-9627-0090db1d6307" />
   <Project Path="05 Type Conversion/05 Type Conversion.vcxproj" Id="0388c711-2609-4c96-aa03-6db288e80826" />
+  <Project Path="06 Math Functions/06 Math Functions.vcxproj" Id="e4265767-d02f-4ede-8529-b87760596ce5" />
+  <Project Path="07-08 Conditions/07-08 Conditions.vcxproj" Id="5e81dcff-0e85-430e-86d6-6834fe8abe20" />
 </Solution>

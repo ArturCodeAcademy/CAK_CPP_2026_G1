@@ -33,6 +33,10 @@ int main()
     // Argumentas - tai reikšmė, kurią perduodame funkcijai tarp skliaustų.
     double powerResult = pow(2, 3);
     cout << "pow(2, 3) = " << powerResult << endl;
+    powerResult = pow(27, 1.0 / 3.0);
+    cout << "pow(27, 1.0 / 3.0) = " << powerResult << endl;
+    powerResult = pow(27, 2.0 / 3.0);
+    cout << "pow(27, 2.0 / 3.0) = " << powerResult << endl;
 
     // pow() funkcija grąžina double tipo rezultatą.
     // Net jeigu rezultatas atrodo kaip sveikasis skaičius, jį patogu saugoti double tipo kintamajame.
