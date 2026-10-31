@@ -34,6 +34,16 @@
     <Project Path="Užduotis 1.43. 7/Užduotis 1.43. 7.vcxproj" Id="04b5b09f-1650-4f45-8083-715626e88729" />
     <Project Path="Užduotis 1.43. 8/Užduotis 1.43. 8.vcxproj" Id="68dfc8bd-6d70-4127-88fe-62775c30d1a3" />
     <Project Path="Užduotis 1.43. 9/Užduotis 1.43. 9.vcxproj" Id="d7a8f345-586f-4ec3-a995-76257f6de0df" />
+    <Project Path="Užduotis 1.44. 6 V2/Užduotis 1.44. 6 V2.vcxproj" Id="c8bbd7d3-45d4-4651-8652-546ac7d2d18b" />
+    <Project Path="Užduotis 1.44. 6/Užduotis 1.44. 6.vcxproj" Id="bd16170e-2455-4e57-bdc4-64663fba19ca" />
+    <Project Path="Užduotis 2. Skirtingi V2/Užduotis 2. Skirtingi V2.vcxproj" Id="c43605b4-0992-4e20-8329-5ce7f4c714e2" />
+    <Project Path="Užduotis 2. Skirtingi/Užduotis 2. Skirtingi.vcxproj" Id="d1017683-129a-4a29-9b3f-ced555292bf5" />
+    <Project Path="Užduotis 3. Triženkliai/Užduotis 3. Triženkliai.vcxproj" Id="f8a55053-9c58-48f7-8793-ea5b614667e3" />
+    <Project Path="Užduotis 4. Intervalas/Užduotis 4. Intervalas.vcxproj" Id="6daa2338-e175-4665-a0dc-01fbc9978a6d" />
+    <Project Path="Užduotis 6. Bankomatas/Užduotis 6. Bankomatas.vcxproj" Id="c2edc5cf-c2cd-49b8-a56d-e2ba6f9410f2" />
+    <Project Path="Užduotis 6. Maksimumas/Užduotis 6. Maksimumas.vcxproj" Id="7965f800-f351-4f43-82d1-2f38df709665" />
+    <Project Path="Užduotis 7. Kamuolys/Užduotis 7. Kamuolys.vcxproj" Id="cfe5ce5b-2250-4aaa-9563-07662f9b0181" />
+    <Project Path="Užduotis 7. Laikrodis/Užduotis 7. Laikrodis.vcxproj" Id="f6bf46f9-586b-4978-a6d9-ba4c482479ee" />
   </Folder>
   <Project Path="01 Introduction to C++ and Visual Studio/01 Introduction to C++ and Visual Studio.vcxproj" Id="9d69e515-a4c7-4fa5-be67-3b7b7810d94f" />
   <Project Path="02 Variables/02 Variables.vcxproj" Id="7e1415ca-7a0c-4ae3-bf40-55ee5cf49812" />
