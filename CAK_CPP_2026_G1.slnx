@@ -4,6 +4,21 @@
     <Platform Name="x86" />
   </Configurations>
   <Folder Name="/Solutions/" />
+  <Folder Name="/Solutions/For/">
+    <Project Path="Užduotis 0. Snaigės/Užduotis 0. Snaigės.vcxproj" Id="13c72a24-46d4-4fa2-afdd-b46e1c42fe2f" />
+    <Project Path="Užduotis 0.1. Šlapdriba/Užduotis 0.1. Šlapdriba.vcxproj" Id="84c4f304-429d-46f5-aacf-c7b12f6590f9" />
+    <Project Path="Užduotis 1. Skaičių kvadratai/Užduotis 1. Skaičių kvadratai.vcxproj" Id="b7172514-cd5c-4e9a-82bb-8dd82710bc81" />
+    <Project Path="Užduotis 11. Ar dalinasi/Užduotis 11. Ar dalinasi.vcxproj" Id="8aa7f0a2-4155-4d7a-b1a5-6ab69620a681" />
+    <Project Path="Užduotis 16. Ar pirminis/Užduotis 16. Ar pirminis.vcxproj" Id="d85fb691-29ee-4933-931e-a153e15083c5" />
+    <Project Path="Užduotis 16. Trečdalis laiko/Užduotis 16. Trečdalis laiko.vcxproj" Id="477bd184-a75a-42eb-8e11-0fc12ba36ebc" />
+    <Project Path="Užduotis 2. Sumavimas/Užduotis 2. Sumavimas.vcxproj" Id="fed38f69-b97e-4ead-b58e-98a5d966c382" />
+    <Project Path="Užduotis 4. Funkcijos reikšmės/Užduotis 4. Funkcijos reikšmės.vcxproj" Id="03ade11f-1ecb-4eca-b471-39585219cbb3" />
+    <Project Path="Užduotis 6. Daliklių kiekis/Užduotis 6. Daliklių kiekis.vcxproj" Id="8d6e6760-3dc6-48bf-9cca-369f5b189d73" />
+    <Project Path="Užduotis 7. Lyginių vidurkis v2/Užduotis 7. Lyginių vidurkis v2.vcxproj" Id="b78c00a1-1a40-4049-86e1-104de11d73d4" />
+    <Project Path="Užduotis 7. Lyginių vidurkis/Užduotis 7. Lyginių vidurkis.vcxproj" Id="4c6b9990-d5d9-4730-99bc-544f708acc75" />
+    <Project Path="Užduotis 8. Nelyginių lyginių seka/Užduotis 8. Nelyginių lyginių seka.vcxproj" Id="82247ba4-a76a-4b38-b302-103a84503029" />
+    <Project Path="Užduotis 9. Sekos sumavimas/Užduotis 9. Sekos sumavimas.vcxproj" Id="05547918-a8c7-4397-b4f6-e75efd47ec0a" />
+  </Folder>
   <Folder Name="/Solutions/Math/">
     <Project Path="Užduotis 0. 0/Užduotis 0. 0.vcxproj" Id="99a6b07f-e051-4083-9ffb-8161d86b1aef" />
     <Project Path="Užduotis 0. 000/Užduotis 0. 000.vcxproj" Id="0feec58c-467a-4a09-b321-6123826d7ddd" />
@@ -62,4 +77,5 @@
   <Project Path="06 Math Functions/06 Math Functions.vcxproj" Id="e4265767-d02f-4ede-8529-b87760596ce5" />
   <Project Path="07-08 Conditions/07-08 Conditions.vcxproj" Id="5e81dcff-0e85-430e-86d6-6834fe8abe20" />
   <Project Path="09 While Loop/09 While Loop.vcxproj" Id="d41a92b5-ef8f-4500-8681-80f739481947" />
+  <Project Path="10 For Loop/10 For Loop.vcxproj" Id="cc765b9b-3f34-4206-812d-e6de1a42f50e" />
 </Solution>
