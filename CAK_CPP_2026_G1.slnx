@@ -9,9 +9,12 @@
     <Project Path="Užduotis 0.1. Šlapdriba/Užduotis 0.1. Šlapdriba.vcxproj" Id="84c4f304-429d-46f5-aacf-c7b12f6590f9" />
     <Project Path="Užduotis 1. Skaičių kvadratai/Užduotis 1. Skaičių kvadratai.vcxproj" Id="b7172514-cd5c-4e9a-82bb-8dd82710bc81" />
     <Project Path="Užduotis 11. Ar dalinasi/Užduotis 11. Ar dalinasi.vcxproj" Id="8aa7f0a2-4155-4d7a-b1a5-6ab69620a681" />
+    <Project Path="Užduotis 16. Ar pirminis V2/Užduotis 16. Ar pirminis V2.vcxproj" Id="fb640b13-9e97-435e-ad5c-59c780a12128" />
     <Project Path="Užduotis 16. Ar pirminis/Užduotis 16. Ar pirminis.vcxproj" Id="d85fb691-29ee-4933-931e-a153e15083c5" />
     <Project Path="Užduotis 16. Trečdalis laiko/Užduotis 16. Trečdalis laiko.vcxproj" Id="477bd184-a75a-42eb-8e11-0fc12ba36ebc" />
+    <Project Path="Užduotis 17. Mažiausias trikampis/Užduotis 17. Mažiausias trikampis.vcxproj" Id="5867d4cf-5cc4-4f4c-b749-b2c5c17d3a90" />
     <Project Path="Užduotis 2. Sumavimas/Užduotis 2. Sumavimas.vcxproj" Id="fed38f69-b97e-4ead-b58e-98a5d966c382" />
+    <Project Path="Užduotis 24. n-ženklių suma/Užduotis 24. n-ženklių suma.vcxproj" Id="507ed168-0fb2-44c5-aa6b-fe6763f0ae02" />
     <Project Path="Užduotis 4. Funkcijos reikšmės/Užduotis 4. Funkcijos reikšmės.vcxproj" Id="03ade11f-1ecb-4eca-b471-39585219cbb3" />
     <Project Path="Užduotis 6. Daliklių kiekis/Užduotis 6. Daliklių kiekis.vcxproj" Id="8d6e6760-3dc6-48bf-9cca-369f5b189d73" />
     <Project Path="Užduotis 7. Lyginių vidurkis v2/Užduotis 7. Lyginių vidurkis v2.vcxproj" Id="b78c00a1-1a40-4049-86e1-104de11d73d4" />
@@ -78,4 +81,5 @@
   <Project Path="07-08 Conditions/07-08 Conditions.vcxproj" Id="5e81dcff-0e85-430e-86d6-6834fe8abe20" />
   <Project Path="09 While Loop/09 While Loop.vcxproj" Id="d41a92b5-ef8f-4500-8681-80f739481947" />
   <Project Path="10 For Loop/10 For Loop.vcxproj" Id="cc765b9b-3f34-4206-812d-e6de1a42f50e" />
+  <Project Path="12 Break and Continue/12 Break and Continue.vcxproj" Id="290137d0-9886-436c-a854-3e6b86d33149" />
 </Solution>

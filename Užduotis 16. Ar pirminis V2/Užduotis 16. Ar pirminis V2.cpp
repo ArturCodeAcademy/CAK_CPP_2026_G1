@@ -1,0 +1,39 @@
+﻿#include <iostream>
+#include <fstream>
+
+using namespace std;
+
+int main()
+{
+	ifstream cin("U1.txt");
+	ofstream cout("U1rez.txt");
+
+	int n;
+	bool isPrime = true;
+	cin >> n;
+
+	if (n == 1 || n == 0)
+	{
+		cout << "NE";
+	}
+	else
+	{
+		for (int i = 2; i < n; i++)
+		{
+			if (n % i == 0)
+			{
+				isPrime = false;
+				break;
+			}
+		}
+
+		if (isPrime)
+		{
+			cout << "TAIP";
+		}
+		else
+		{
+			cout << "NE";
+		}
+	}
+}
