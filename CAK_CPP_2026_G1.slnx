@@ -82,4 +82,5 @@
   <Project Path="09 While Loop/09 While Loop.vcxproj" Id="d41a92b5-ef8f-4500-8681-80f739481947" />
   <Project Path="10 For Loop/10 For Loop.vcxproj" Id="cc765b9b-3f34-4206-812d-e6de1a42f50e" />
   <Project Path="12 Break and Continue/12 Break and Continue.vcxproj" Id="290137d0-9886-436c-a854-3e6b86d33149" />
+  <Project Path="14-16 Arrays/14-16 Arrays.vcxproj" Id="a65d1edf-5ce8-4fe3-bbeb-7cc7d404d862" />
 </Solution>
