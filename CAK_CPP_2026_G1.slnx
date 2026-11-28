@@ -22,6 +22,13 @@
     <Project Path="Užduotis 8. Nelyginių lyginių seka/Užduotis 8. Nelyginių lyginių seka.vcxproj" Id="82247ba4-a76a-4b38-b302-103a84503029" />
     <Project Path="Užduotis 9. Sekos sumavimas/Užduotis 9. Sekos sumavimas.vcxproj" Id="05547918-a8c7-4397-b4f6-e75efd47ec0a" />
   </Folder>
+  <Folder Name="/Solutions/Masyvai/">
+    <Project Path="Užduotis 1. Pirmas elementas/Užduotis 1. Pirmas elementas.vcxproj" Id="3962bbe5-badf-4540-9d7e-cdc24af7cbd2" />
+    <Project Path="Užduotis 3. Elementų suma/Užduotis 3. Elementų suma.vcxproj" Id="36b13826-a6af-478c-bad9-869d9c56dec1" />
+    <Project Path="Užduotis 5. Teigiamų vidurkis/Užduotis 5. Teigiamų vidurkis.vcxproj" Id="0c14b5be-8270-4180-b03d-3a6b8522b05e" />
+    <Project Path="Užduotis 7. Didžiausias lyginis v2/Užduotis 7. Didžiausias lyginis v2.vcxproj" Id="038ca631-7465-469d-ba34-e56b61a33fc1" />
+    <Project Path="Užduotis 7. Didžiausias lyginis/Užduotis 7. Didžiausias lyginis.vcxproj" Id="d3d59d6d-cdfd-4a8b-92b8-d7e5cb88a2ac" />
+  </Folder>
   <Folder Name="/Solutions/Math/">
     <Project Path="Užduotis 0. 0/Užduotis 0. 0.vcxproj" Id="99a6b07f-e051-4083-9ffb-8161d86b1aef" />
     <Project Path="Užduotis 0. 000/Užduotis 0. 000.vcxproj" Id="0feec58c-467a-4a09-b321-6123826d7ddd" />
